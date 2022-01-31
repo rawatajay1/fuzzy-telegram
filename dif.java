@@ -4,6 +4,6 @@ class dif
 	{
 		int a=11,b=10;
 		int c=a-b;
-		System.out.print("The sum is="+c);
+		System.out.print("The difference="+c);
 	}
 }
